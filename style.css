@@ -1266,3 +1266,15 @@ nav li:nth-child(4) {
         display: none;
     }
 }
+html,body{
+    overflow-x: hidden;
+    max-width: 100%;
+    width: 100%;
+}
+*{
+    max-width: 100%;
+    box-sizing: border-box;
+}
+section, div{
+    max-width: 100%;
+}
